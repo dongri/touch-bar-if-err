@@ -4,6 +4,10 @@
     "description": "if err != nil",
     "version": "0.0.1",
     "publisher": "D",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dongri/touch-bar-if-err.git"
+    },
     "engines": {
         "vscode": "^1.26.0"
     },
