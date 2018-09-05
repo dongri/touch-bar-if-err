@@ -10,7 +10,7 @@ if err != nil {
 ## Installation
 
 ```
-$ code --install-extension dongri.touch-bar-if-err
+$ code --install-extension D.touch-bar-if-err
 ```
 
 ## Release Notes
@@ -26,4 +26,9 @@ Initial release.
 ```
 $ npm install -g yo generator-code
 $ yo code
+```
+
+```
+$ git clone git@github.com:dongri/touch-bar-if-err
+$ cp -r touch-bar-if-err ~/.vscode/extensions/
 ```
