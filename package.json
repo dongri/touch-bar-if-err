@@ -2,7 +2,7 @@
     "name": "touch-bar-if-err",
     "displayName": "Touch Bar if err",
     "description": "if err != nil",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "D",
     "repository": {
         "type": "git",

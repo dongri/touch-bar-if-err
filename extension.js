@@ -8,7 +8,7 @@ function activate(context) {
             return; // No open text editor
         }
         const position = editor.selection.active;
-        editor.insertSnippet(new vscode.SnippetString('if err != nil {\n\n}'), position);
+        editor.insertSnippet(new vscode.SnippetString('if err != nil {\n\treturn\n}'), position);
     });
     context.subscriptions.push(disposable);
 }
