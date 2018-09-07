@@ -3,7 +3,7 @@
 easy and fast insert 
 ```
 if err != nil {
-
+  return
 }
 ```
 
