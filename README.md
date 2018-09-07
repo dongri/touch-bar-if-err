@@ -32,3 +32,10 @@ $ yo code
 $ git clone git@github.com:dongri/touch-bar-if-err
 $ cp -r touch-bar-if-err ~/.vscode/extensions/
 ```
+
+# Publish
+
+```
+$ npm install -g vsce
+$ vsce publish
+```
