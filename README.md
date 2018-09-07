@@ -7,6 +7,8 @@ if err != nil {
 }
 ```
 
+<img src="https://raw.githubusercontent.com/dongri/touch-bar-if-err/master/media/touch-bar.png" alt="Touch Bar" title="Touch Bar">
+
 ## Installation
 
 ```
