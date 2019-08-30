@@ -41,9 +41,9 @@
     "devDependencies": {
         "typescript": "3.4.3",
         "vscode": "1.1.33",
-        "eslint": "5.16.0",
+        "eslint": "6.2.2",
         "@types/node": "11.13.2",
-        "@types/mocha": "5.2.6"
+        "@types/mocha": "5.2.7"
     },
     "dependencies": {}
 }
