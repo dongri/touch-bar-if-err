@@ -43,7 +43,8 @@
         "vscode": "latest",
         "eslint": "latest",
         "@types/node": "latest",
-        "@types/mocha": "latest"
+        "@types/mocha": "latest",
+        "minimist": "latest"
     },
     "dependencies": {}
 }
